@@ -1,3 +1,4 @@
 *.js @gomescarlosdev
-.github/ @gomescalosdev
+.github/ @gomescarlosdev
 *.go @gomescarlosdev
+*.*  @gomescarlosdev
